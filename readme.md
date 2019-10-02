@@ -1,6 +1,5 @@
-###################
-Instructions
-###################
+
+## Instructions
 
 ********************************************
 This application is developed in codeigniter
