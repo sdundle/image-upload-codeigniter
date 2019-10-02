@@ -11,4 +11,7 @@ This application is developed in codeigniter
 4. The image will be uploaded to the uploads folder located in root directory giving information about image.
 
 
+<img src="/images/attachment.png" />
+<br/>
+<img src="/images/attachment2.png" />
 
